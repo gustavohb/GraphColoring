@@ -10,4 +10,4 @@
 
 ## License
 
-See the [LICENSE](https://github.com/gustavohb/graph-coloring/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/gustavohb/graph-coloring/blob/master/LICENSE) file for license rights and limitations (MIT).
