@@ -4,8 +4,7 @@
 
 ## Screenshot
 
-![screenshot](https://cloud.githubusercontent.com/assets/3193712/10881740/a0cea856-814c-11e5-86c2-a1ac9214952c.png)
-
+![screenshot](https://cloud.githubusercontent.com/assets/3193712/11079040/9b8b26d0-87f0-11e5-9774-82f3a586906a.png)
 
 
 ## License
